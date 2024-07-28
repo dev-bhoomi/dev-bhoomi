@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src:"![image](https://github.com/user-attachments/assets/2517a36b-3c6a-4019-8c86-08585bcd048d)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/b4354d9a-1969-4dfa-93a6-15a0197923f0)"
+
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-bhoomi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bhoomi" /> </p>
 
