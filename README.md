@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dev.bhoomigupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BxncTeVoaazi70mYBIdVdERDMW2-S5Yg/view?pli=1](https://drive.google.com/file/d/1BxncTeVoaazi70mYBIdVdERDMW2-S5Yg/view?pli=1)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BxncTeVoaazi70mYBIdVdERDMW2-S5Yg/view?pli=1](https://drive.google.com/file/d/1sH2ygQT4ESkk1l4qgvz9BQnyZisIjoOH/view)
 
 - ⚡ Fun fact **I am self learner**
 
