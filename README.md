@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bhoomi Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DevOps from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd290MjVtYWI5aHdpY2pmOWF0cHp6eHc0dnR4aDU2NzZzaGN4Y2ZwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"
 
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-bhoomi&label=Profile%20views&color=0e75b6&style=flat" alt="dev-bhoomi" /> </p>
 
-- 🌱 I’m currently exploring **Mern and Python**
+- 🌱 I’m currently exploring **Terraform and Python**
 
-- 💬 Ask me about **react.js,javascript,Bootstrap,Html and css**
+- 💬 Ask me about **EC2,VPC,IAM,S3,LAMBDA,SNS,SQS,LINUX,LAMBDA**
 
 - 📫 How to reach me **dev.bhoomigupta@gmail.com**
 
